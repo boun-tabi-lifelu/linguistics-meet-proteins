@@ -12,15 +12,15 @@ Our experiments show that BPE maintains protein domain boundaries better and has
 
 If you use this repository, please cite the following related [paper]():
 ```bibtex
-@article{,
-  title={},
-  author={},
-  journal={},
-  year={},
-  publisher={}
+@inproceedings{suyunu2024linguistic,
+  title={Linguistic Laws Meet Protein Sequences: A Comparative Analysis of Subword Tokenization Methods},
+  author={Suyunu, Burak and Taylan, Enes and Ozgur, Arzucan},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={4489--4496},
+  year={2024},
+  organization={IEEE Computer Society}
 }
 ```
-
 
 ## License
 
