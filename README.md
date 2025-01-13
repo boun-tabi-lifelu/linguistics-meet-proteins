@@ -10,7 +10,7 @@ Our experiments show that BPE maintains protein domain boundaries better and has
 
 ## Reference
 
-If you use this repository, please cite the following related [paper]():
+If you use this repository, please cite the following related [paper](https://www.computer.org/csdl/proceedings-article/bibm/2024/10822826/23onmSzE86Y):
 ```bibtex
 @inproceedings{suyunu2024linguistic,
   title={Linguistic Laws Meet Protein Sequences: A Comparative Analysis of Subword Tokenization Methods},
